@@ -6,7 +6,7 @@
 
 ### Instructions
 * Download the file [menu.ipynb](menu.ipynb) and open in jupyter notebook to execute the code.  OR
-* Open the [menu.py](menu.py).py in VS Code, but its throwining an error match statement.
+* Open the [menu.py](menu.py) in VS Code, but its throwining an error match statement.
 
 ### Background
 Designing an interactive ordering system from a food truck menu 
