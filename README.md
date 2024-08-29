@@ -12,7 +12,7 @@
 Designing an interactive ordering system from a food truck menu 
 
 ### About Challenge
-* menu{} - dicionary with multiple dictionaries in inside.
+* menu{} - dictionary with multiple dictionaries in inside.
 is created 
 * Order_list[] - is an empty list which will store customer's order  
 * menu_list{} - is a dictionary to store the menu from which customer will place an order which will be stord in order_list[] with item name, price and quantity.
